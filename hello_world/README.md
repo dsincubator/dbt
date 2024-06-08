@@ -24,5 +24,5 @@ I'm looking for this properties:
 
 * `dbt init` populates the dbt project with way too much stuff for a biginner to notice what is crucial versus "nice to have". ChatGTP helped me arrive to the "hello_world" project in this repo. I avoided `init` and build the project by hand. Done that ways it's easy to see the number of minimal componets is small.
 
-* A good playground is GitHub codespaces.
+* A good playground is GitHub codespaces, and maybe [VS Code with dev-containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) in the backend.
 
