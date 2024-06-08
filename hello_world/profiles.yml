@@ -1,0 +1,6 @@
+hello_world:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      threads: 1
