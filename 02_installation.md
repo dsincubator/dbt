@@ -4,7 +4,7 @@
 A good playground to install the required sofware is GitHub Codespaces.
 
 ```bash
-apt-get update && apt-get install -y python3 python3-pip \
+sudo apt-get update && apt-get install -y python3 python3-pip \
     && pip3 install dbt-core
 ```
 
