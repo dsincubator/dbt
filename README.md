@@ -2,7 +2,7 @@
 
 ## Goal
 
-Understand, use, and build `dbt` projects.
+Understand and use a minimal `dbt` project.
 
 ## Audience
 
@@ -18,8 +18,9 @@ Managers and developers of data sets developed with `dbt`.
 ## Objectives
 
 * Overview what is `dbt`, why and when it is/isn't useful, and how to use it.
-* Setup a minimal project with `dbt`.
-* Explore use cases.
+* Install the required sofware on GitHub Codespaces.
+* Use a few basic `dbt` commands.
+* Explore a minimal, "hello_world" dbt project.
 
 ## Resoruces
 

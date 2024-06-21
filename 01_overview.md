@@ -1,6 +1,6 @@
 # Overview
 
-Overview what is `dbt`, why and when it's useful, and how to use it.
+Overview what is `dbt`, why and when it is/isn't useful, and how to use it.
 
 ## What is `dbt`?
 
@@ -24,26 +24,3 @@ Overview what is `dbt`, why and when it's useful, and how to use it.
 * When your data transformation is simple, and doesn't need to scale.
 * When your team isn't comfortable with SQL or command-line interfaces.
 * When your data is not stored in a SQL-based data warehouse.
-
-## How to use it
-
-If you're using (not building) the `dbt` project, these commands should be enough:
-
-1. Execute transformations.
-
-   ```bash
-   dbt run
-   ```
-
-2. Validate the integrity of the transformed data.
-
-   ```bash
-   dbt test
-   ```
-
-3. Generate and access the documentation.
-
-   ```bash
-   dbt docs generate
-   dbt docs serve
-   ```

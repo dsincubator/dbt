@@ -1,0 +1,11 @@
+# profiles.yaml can live in the dbt/ project but it may expose secrets
+
+# Name of the profile
+hello_world:       
+  # Target to use from the outputs
+  target: dev      
+  outputs:
+    # Name of the target
+    dev:           
+      # Type of database you're connecting to
+      type: duckdb 
