@@ -1,4 +1,4 @@
-# profiles.yaml can live in the dbt/ project but it may expose secrets
+# profiles.yml should live in ~/.dbt/ to avoid exposing secrets
 
 # Name of the profile
 hello_world:       

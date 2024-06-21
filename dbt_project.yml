@@ -10,8 +10,6 @@ config-version: 2
 model-paths: ["models"] 
 # Directory where dbt will store the results of running commands like dbt run and dbt test.
 target-path: "target" 
-# Directories that dbt will remove when you run the dbt clean command. 
-# This is typically used to clean up old results.
 
 # Name of the profile to use for this project. 
 # This should match a profile name in your profiles.yml file.
