@@ -1,4 +1,4 @@
-# hello_work
+# hello_world
 
 The goal of this project is is to build a hello_workd/ project with `dbt-core`.
 
