@@ -17,7 +17,7 @@ Managers and developers of data sets developed with `dbt`.
 
 ## Objectives
 
-* Overview what is `dbt`, why and when it is/isn't useful, and how to use it.
+* Overview what is `dbt`, why and when it is/isn't useful.
 * Install the required sofware on GitHub Codespaces.
 * Use a few basic `dbt` commands.
 * Explore a minimal, "hello_world" dbt project.
