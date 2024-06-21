@@ -1,6 +1,6 @@
 # Overview
 
-Overview what is `dbt`, why and when it is/isn't useful, and how to use it.
+Overview what is `dbt`, why and when it is/isn't useful.
 
 ## What is `dbt`?
 
