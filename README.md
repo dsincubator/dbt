@@ -10,10 +10,7 @@ Managers and developers of data sets developed with `dbt`.
 
 ## Why?
 
-`dbt` (data build tool) makes your data pipelines more efficient and reliable:
-
-* It helps you to transform, test, and document data. 
-* It encourages best practices from software engineering, e.g. version control, CI/CD.
+`dbt` (data build tool) makes your data pipelines more efficient and reliable.
 
 ## Objectives
 
