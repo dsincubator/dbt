@@ -17,8 +17,8 @@ Managers and developers of data sets developed with `dbt`.
 
 ## Objectives
 
-* Overview what is `dbt`, why and when it's useful, and how to use it.
-* Learn how to build and use a minimal project with `dbt`.
+* Overview what is `dbt`, why and when it is/isn't useful, and how to use it.
+* Setup a minimal project with `dbt`.
 * Explore use cases.
 
 ## Resoruces
