@@ -22,3 +22,4 @@ Managers and developers of data sets developed with `dbt`.
 ## Resoruces
 
 * https://docs.getdbt.com/
+* [dbt playlist](https://www.youtube.com/watch?v=gGXwszGqZxM&list=PLvgdJdJDL-AM3Xl0kzJivaMfqBiyVe99X&index=3)
